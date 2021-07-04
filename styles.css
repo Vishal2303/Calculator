@@ -52,4 +52,7 @@ body{
   height: 120px; */
   background-color: rgb(13, 174, 238);
 }
-
+.calculator span:hover{
+  background:cornsilk;
+  color: #111;
+}
